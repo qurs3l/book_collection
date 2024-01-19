@@ -1,0 +1,30 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-01-19 19:31:00.220062000 Z
+    - 2024-01-19 19:31:00.220062000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - 'Diary of a Wimpy Kid: Rodrick Rules'
+    - 2024-01-19 19:34:16.468600000 Z
+    - 2024-01-19 19:34:16.468600000 Z
+  - - 2
+    - Captain Underpants
+    - 2024-01-19 19:34:32.494762000 Z
+    - 2024-01-19 19:34:32.494762000 Z
